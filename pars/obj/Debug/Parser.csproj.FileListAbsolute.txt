@@ -1,0 +1,13 @@
+C:\Users\77083\source\repos\pars\bin\Debug\Parser.exe.config
+C:\Users\77083\source\repos\pars\bin\Debug\Parser.exe
+C:\Users\77083\source\repos\pars\bin\Debug\Parser.pdb
+C:\Users\77083\source\repos\pars\bin\Debug\AngleSharp.dll
+C:\Users\77083\source\repos\pars\bin\Debug\AngleSharp.xml
+C:\Users\77083\source\repos\pars\obj\Debug\Parser.csprojAssemblyReference.cache
+C:\Users\77083\source\repos\pars\obj\Debug\Parser.FormMain.resources
+C:\Users\77083\source\repos\pars\obj\Debug\Parser.Properties.Resources.resources
+C:\Users\77083\source\repos\pars\obj\Debug\Parser.csproj.GenerateResource.cache
+C:\Users\77083\source\repos\pars\obj\Debug\Parser.csproj.CoreCompileInputs.cache
+C:\Users\77083\source\repos\pars\obj\Debug\Parser.csproj.CopyComplete
+C:\Users\77083\source\repos\pars\obj\Debug\Parser.exe
+C:\Users\77083\source\repos\pars\obj\Debug\Parser.pdb
